@@ -15,4 +15,4 @@ kramdown:
 navigation:
   - text: Documentation
     internal: true
-    url: ./docs
+    url: /about
