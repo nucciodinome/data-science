@@ -1,3 +1,7 @@
+<!-- TOC depthFrom:2 -->
+- [about](/about.md)
+<!-- /TOC -->
+
 # Data Science for Social Scientists
 Welcome to this online project wich collect R and Python based code for social & environmental scientists delaling with Data Mining.
 Each content in this websites is inspired by a specific sustainability-related case study, in order to provide a scenario for practical application of methods and tools proposed. 
